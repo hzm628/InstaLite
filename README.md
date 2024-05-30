@@ -1,5 +1,5 @@
-## Names & group number
-Group 18, Java Swingers
+# InstaLite
+
 - Seth Sukboontip: sethsuk@seas.upenn.edu
 - Sam Wang: swang27@seas.upenn.edu
 - Zimo Huang: zimoh@sas.upenn.edu
